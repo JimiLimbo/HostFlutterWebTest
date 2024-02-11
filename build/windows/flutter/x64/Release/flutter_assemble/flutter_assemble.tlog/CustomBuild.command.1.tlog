@@ -1,0 +1,28 @@
+^C:\USERS\SBCAS\DOCUMENTS\GITHUB\FINALAPPMOBILEDEV\FINALAPPPART1\BUILD\WINDOWS\CMAKEFILES\5D32D7B58D0B249D41D4D12333F775D3\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Flutter\flutter PROJECT_DIR=C:\Users\sbcas\Documents\GitHub\FinalAppMobileDev\finalapppart1 FLUTTER_ROOT=C:\Flutter\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\sbcas\Documents\GitHub\FinalAppMobileDev\finalapppart1\windows\flutter\ephemeral PROJECT_DIR=C:\Users\sbcas\Documents\GitHub\FinalAppMobileDev\finalapppart1 FLUTTER_TARGET=lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=true PACKAGE_CONFIG=C:\Users\sbcas\Documents\GitHub\FinalAppMobileDev\finalapppart1\.dart_tool\package_config.json C:/Flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\SBCAS\DOCUMENTS\GITHUB\FINALAPPMOBILEDEV\FINALAPPPART1\BUILD\WINDOWS\CMAKEFILES\F0C6EABE9166487E30888FB3598C3043\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\SBCAS\DOCUMENTS\GITHUB\FINALAPPMOBILEDEV\FINALAPPPART1\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/windows -BC:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/build/windows --check-stamp-file C:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

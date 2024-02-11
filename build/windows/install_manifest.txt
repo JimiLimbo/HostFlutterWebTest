@@ -1,0 +1,13 @@
+C:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/build/windows/runner/Release/data/icudtl.dat
+C:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/build/windows/runner/Release/flutter_windows.dll
+C:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/build/windows/runner/Release/flutter_secure_storage_windows_plugin.dll
+C:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/build/windows/runner/Release/data/flutter_assets/AssetManifest.bin
+C:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/build/windows/runner/Release/data/flutter_assets/AssetManifest.json
+C:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/build/windows/runner/Release/data/flutter_assets/assets/fonts/Jokerman-Regular.ttf
+C:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/build/windows/runner/Release/data/flutter_assets/assets/images/Jester.png
+C:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/build/windows/runner/Release/data/flutter_assets/FontManifest.json
+C:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/build/windows/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/build/windows/runner/Release/data/flutter_assets/NOTICES.Z
+C:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/build/windows/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/build/windows/runner/Release/data/flutter_assets/shaders/ink_sparkle.frag
+C:/Users/sbcas/Documents/GitHub/FinalAppMobileDev/finalapppart1/build/windows/runner/Release/data/app.so
